@@ -17,7 +17,7 @@ PyYAML==3.10
 SQLAlchemy==0.8.2
 SSSDConfig==1.11.7
 Tempita==0.5.1
-Werkzeug==0.9.3
+Werkzeug==0.15.3
 ansible==1.7.2
 asyncio==0.4.1
 backports.ssl-match-hostname==3.4.0.2
