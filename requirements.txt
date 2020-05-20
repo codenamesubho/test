@@ -45,7 +45,7 @@ glusterfs-api==3.5.2
 gps==3.9
 gunicorn==18.0
 gyp==0.1
-httplib2==0.7.7
+httplib2==0.18.0
 iniparse==0.4
 initial-setup==0.3.10.1
 ipaddr==2.1.10
