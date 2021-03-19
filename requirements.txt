@@ -4,7 +4,7 @@ DecoratorTools==1.8
 Django==1.6.6
 Flask==0.10.1
 IPy==0.75
-Jinja2==2.7.3
+Jinja2==2.11.3
 Magic-file-extensions==0.2
 Mako==1.0.0
 MarkupSafe==0.18
