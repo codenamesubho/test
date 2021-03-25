@@ -13,7 +13,7 @@ Paste==1.7.5.1
 Pillow==2.2.1
 PyGreSQL==4.0
 PyPAM==0.5.0
-PyYAML==3.10
+PyYAML==5.4
 SQLAlchemy==0.8.2
 SSSDConfig==1.11.7
 Tempita==0.5.1
