@@ -33,7 +33,7 @@ di==0.3
 dj-database-url==0.3.0
 dj-static==0.0.5
 django-allauth==0.16.1
-django-debug-toolbar==1.0.1
+django-debug-toolbar==1.11.1
 django-helpdesk==0.1.11
 django-sendgrid==1.0.1
 django-toolbelt==0.0.1
