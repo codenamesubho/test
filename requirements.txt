@@ -119,7 +119,7 @@ tornado==2.2.1
 trollius==0.2
 uniconvertor==2.0
 urlgrabber==3.10.1
-urllib3==1.8.2
+urllib3==1.26.5
 vboxapi==1.0
 virtualenv==1.11.4
 wsgiref==0.1.2
