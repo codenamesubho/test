@@ -87,7 +87,7 @@ pystache==0.5.3
 python-augeas==0.4.1
 python-dateutil==1.5
 python-keyczar==0.71c
-python-ldap==2.4.6
+python-ldap==3.4.0
 python-meh==0.27
 python-nss==0.15.0
 python-openid==2.2.5
