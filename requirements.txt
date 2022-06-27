@@ -95,7 +95,7 @@ pytz==2012d
 pyxattr==0.5.1
 pyxdg==0.25
 pyzmq==13.0.2
-reportlab==3.1.8
+reportlab==3.5.55
 requests==2.4.0
 requests-oauthlib==0.4.0
 rpm-python==4.11.3
