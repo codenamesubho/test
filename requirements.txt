@@ -23,7 +23,7 @@ asyncio==0.4.1
 backports.ssl-match-hostname==3.4.0.2
 blivet==0.23.9
 boto==2.32.1
-certifi==14.05.14
+certifi==2022.12.7
 chardet==2.0.1
 copr-cli==0.2.0
 cssselect==0.9.1
